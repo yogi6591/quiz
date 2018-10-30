@@ -31,7 +31,7 @@ def str():
     s1=input("enter 1st string:")
     s2=input("enter 2nd string:")
     s3=s1+s2
-    print(s3)
+    print(s3) #this will print the result of concatenated strings
     return
 str()
 
